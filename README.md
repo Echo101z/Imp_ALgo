@@ -1,5 +1,5 @@
 # Imp_ALgo
-##Data Structures which is not common :
+##Data Structures which are not common :
 
 1. Ques which will make you understand disjoint sets data structure 
 ---
